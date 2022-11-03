@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.validations;
+package com.epam.training.student_veronika_tarasova.validations_color_code.src.main.java.com.epam.rd.autotasks.validations;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -13,8 +13,4 @@ public class ColorCodeValidation {
         return matcher.matches();
     }
 }
-
-
-
-
 

@@ -1,10 +1,10 @@
-package com.epam.rd.autotasks.validations;
+package com.epam.training.student_veronika_tarasova.validations_color_code.src.test.java.com.epam.rd.autotasks.validations;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.NullAndEmptySource;
 import org.junit.jupiter.params.provider.ValueSource;
 
-import static com.epam.rd.autotasks.validations.ColorCodeValidation.validateColorCode;
+import static com.epam.training.student_veronika_tarasova.validations_color_code.src.main.java.com.epam.rd.autotasks.validations.ColorCodeValidation.validateColorCode;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
